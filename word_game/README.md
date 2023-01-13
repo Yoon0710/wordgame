@@ -1,2 +1,2 @@
-its word game as comfiled by c++
-just practice.
+its simple word game as assembled by c++
+
